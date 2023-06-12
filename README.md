@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, Je suis Diawara Karim</h1>
 <p align="center">Développeur d'application mobile (Android & iOS), de site Web et de logiciel bureautique. Bientôt 3 ans d'expérience, extrêmement motivé pour développer constamment mes compétences et évolue professionnellement. Je suis confiant dans ma capacité à proposer des idées intéressantes dans le but de réaliser un projet bénéfique.</p>
 
-//<h3 align="left">Connect with me:</h3>
+<!--<h3 align="left">Connect with me:</h3>-->
 <p align="left">
 </p>
 
