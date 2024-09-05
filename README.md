@@ -40,7 +40,7 @@
     Java
   </a> |
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-    <img src="[https://www.prisma.io/images/prisma-logo.svg](https://prismalens.vercel.app/header/logo-white.svg)" alt="Prisma" width="40" height="40" style="vertical-align: middle;"/>
+    <img src="https://www.prisma.io/images/prisma-logo.svg" alt="Prisma" width="40" height="40" style="vertical-align: middle;"/>
     Prisma
   </a> |
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
@@ -95,6 +95,15 @@
     <img src="https://jwt.io/img/logo.svg" alt="JWT" width="50" height="50" style="vertical-align: middle;"/>
     JWT
   </a>
+</p>
+
+<h3 align="center">Passions</h3>
+<p align="center">
+  En dehors du développement, je suis passionné par :
+  <ul>
+    <li><strong>Les mangas</strong> : J'aime explorer différents genres et histoires fascinantes à travers les mangas.</li>
+    <li><strong>Le sport</strong> : Je pratique divers sports pour rester actif et en forme, tout en appréciant la compétition et le travail en équipe.</li>
+  </ul>
 </p>
 
 <h3 align="center">Me contacter</h3>
