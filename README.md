@@ -40,7 +40,7 @@
     Java
   </a> |
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.prisma.io/images/prisma-logo.svg" alt="Prisma" width="40" height="40" style="vertical-align: middle;"/>
+    <img src="[https://www.prisma.io/images/prisma-logo.svg](https://prismalens.vercel.app/header/logo-white.svg)" alt="Prisma" width="40" height="40" style="vertical-align: middle;"/>
     Prisma
   </a> |
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
